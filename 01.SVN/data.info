@@ -1,0 +1,32 @@
+id	ID标识
+diagnosis	M/B(M：恶行，B：良性)
+radius_mean	半径（点中心到边缘的距离）平均值
+texture_mean	文理（灰度值的标准差）平均值
+perimeter_mean	周长 平均值
+area_mean	面积 平均值
+smoothness_mean	平滑程度（半径内的局部变化）平均值
+compactness_mean	紧密度（=周长*周长/面积-1.0） 平均值
+concavity_mean	凹度（轮廓凹度的严重程度）平均值
+concave points_mean	凹缝（轮廓的凹部分）平均值
+symmetry_mean	对称性	平均值
+fractal_dimension_mean	分形维数（=海岸线近似-1）平均值
+radius_se	xxx 标准差
+texture_se
+perimeter_se
+area_se
+smoothness_se
+compactness_se
+concavity_se
+concave points_se
+symmetry_se
+fractal_dimension_se
+radius_worst	xxxxx 最大值
+texture_worst
+perimeter_worst
+area_worst
+smoothness_worst
+compactness_worst
+concavity_worst
+concave points_worst
+symmetry_worst
+fractal_dimension_worst
